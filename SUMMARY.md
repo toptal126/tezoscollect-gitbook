@@ -5,4 +5,4 @@
 ## Overview
 
 * [❓ What are Tezos Domains?](overview/what-are-tezos-domains.md)
-* [✨ Our Features](overview/our-features.md)
+* [🥇 Our Features](overview/our-features.md)
