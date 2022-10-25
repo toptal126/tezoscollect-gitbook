@@ -1,27 +1,19 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Tezos Collect
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+## About Us
 
-## Overview
+Here is some information to what Tezos Collect is all about:
 
-Here are a couple of example overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Tezos Collect is a Tezos Domains marketplace focused on creating transactional ease for users looking to trade and manage domains.&#x20;
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> With Tezos Collect, you can search for your favorite domains in categorized collections, make offers on domains you have had your eye on, and list up domains for auction when you decide it is time to let go.&#x20;
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — From the [Tezos Collect](https://tezoscollect.io/) Team
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/what-are-tezos-domains.md" %}
+[what-are-tezos-domains.md](overview/what-are-tezos-domains.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
@@ -32,14 +24,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
